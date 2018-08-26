@@ -1,0 +1,87 @@
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 0
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 1
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 2
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 3
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 4
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+memory, rhinocerous, bumblebee, Catch, PEOPLE, 
+
+alphaVec: 
+3, 4, 0, 1, 2, 
+
+alphaVec indices: 
+2, 3, 4, 0, 1, 
+
+lengthVec: 
+3, 0, 2, 1, 4, 
+
+lengthVec indices: 
+1, 3, 2, 0, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to capitalize. The size of the Dish is 5: What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+memory, rhinocerous, Bumblebee, Catch, PEOPLE, 
+
+alphaVec: 
+2, 3, 0, 1, 4, 
+
+alphaVec indices: 
+2, 3, 0, 1, 4, 
+
+lengthVec: 
+3, 0, 2, 1, 4, 
+
+lengthVec indices: 
+1, 3, 2, 0, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to truncate. The size of the Dish is 5: How many characters do you want to keep? The word is 'PEOPLE': What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+memory, rhinocerous, Bumblebee, Catch, PEO, 
+
+alphaVec: 
+2, 3, 0, 1, 4, 
+
+alphaVec indices: 
+2, 3, 0, 1, 4, 
+
+lengthVec: 
+4, 3, 2, 1, 0, 
+
+lengthVec indices: 
+4, 3, 2, 1, 0, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to truncate. The size of the Dish is 5: How many characters do you want to keep? The word is 'memory': Chosen number is more than the length of the word. Please try again.
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to truncate. The size of the Dish is 5: How many characters do you want to keep? The word is 'memory': Not a valid input. Please try again. What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to truncate. The size of the Dish is 5: How many characters do you want to keep? The word is 'Catch': What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+memory, rhinocerous, Bumblebee, , PEO, 
+
+alphaVec: 
+3, 2, 0, 1, 4, 
+
+alphaVec indices: 
+2, 3, 1, 0, 4, 
+
+lengthVec: 
+3, 4, 2, 1, 0, 
+
+lengthVec indices: 
+4, 3, 2, 0, 1, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to truncate. The size of the Dish is 5: How many characters do you want to keep? The word is 'memory': What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+, rhinocerous, Bumblebee, , PEO, 
+
+alphaVec: 
+3, 2, 0, 1, 4, 
+
+alphaVec indices: 
+2, 3, 1, 0, 4, 
+
+lengthVec: 
+3, 0, 2, 1, 4, 
+
+lengthVec indices: 
+1, 3, 2, 0, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): 

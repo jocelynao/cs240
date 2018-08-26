@@ -1,0 +1,54 @@
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 0
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 1
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 2
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 3
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 4
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+serf, snake, School, Siamese, Sample, 
+
+alphaVec: 
+4, 2, 0, 1, 3, 
+
+alphaVec indices: 
+2, 3, 1, 4, 0, 
+
+lengthVec: 
+0, 1, 2, 3, 4, 
+
+lengthVec indices: 
+0, 1, 2, 3, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to make all caps. The size of the Dish is 5: What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+serf, snake, School, SIAMESE, Sample, 
+
+alphaVec: 
+3, 4, 0, 1, 2, 
+
+alphaVec indices: 
+2, 3, 4, 0, 1, 
+
+lengthVec: 
+0, 1, 2, 3, 4, 
+
+lengthVec indices: 
+0, 1, 2, 3, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): Pick an index to make all caps. The size of the Dish is 5: What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+serf, snake, SCHOOL, SIAMESE, Sample, 
+
+alphaVec: 
+2, 3, 0, 1, 4, 
+
+alphaVec indices: 
+2, 3, 0, 1, 4, 
+
+lengthVec: 
+0, 1, 2, 3, 4, 
+
+lengthVec indices: 
+0, 1, 2, 3, 4, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): 

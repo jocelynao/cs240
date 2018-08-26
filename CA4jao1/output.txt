@@ -1,0 +1,38 @@
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+
+
+alphaVec: 
+
+
+alphaVec indices: 
+
+
+lengthVec: 
+
+
+lengthVec indices: 
+
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): There are no strings in the dish right now
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): There are no strings in the dish right now
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 0
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 1
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): What string would you like to insert?: Index of inserted string is 2
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): --------------------------------------
+cat, apple, zimbabwe, 
+
+alphaVec: 
+1, 0, 2, 
+
+alphaVec indices: 
+1, 0, 2, 
+
+lengthVec: 
+0, 1, 2, 
+
+lengthVec indices: 
+0, 1, 2, 
+
+-----------------------------------------
+What would you like to do? Please enter a command (INSERT, FIND, CAPITALIZE, ALLCAPS, TRUNCATE, GETSHORTEST, GETFIRST, PRINT, QUIT): 
