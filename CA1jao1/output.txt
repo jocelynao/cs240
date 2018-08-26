@@ -1,0 +1,5 @@
+What would you like to do?What is the donor's first name?What is the donor's last name?How old is the donor?What is the street number of the donor?What town does the donor live in?What is the zipcode of the town?How much would the donor like to donate?What would you like to do?Name: John Apple
+Age: 89
+Address: 432 Monroe 32452
+Donated: $42352
+What would you like to do?How much would you like to donate?What would you like to do?Current Donated Balance: $51252.00What would you like to do?
